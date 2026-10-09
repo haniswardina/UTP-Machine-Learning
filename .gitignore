@@ -1,0 +1,6 @@
+# Jupyter automatic checkpoints
+.ipynb_checkpoints/
+
+# Anaconda local database files
+anaconda_projects/
+**/anaconda_projects/
